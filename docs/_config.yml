@@ -1,0 +1,6 @@
+title: Data Engineering with Rust
+description: A comprehensive course sandbox for learning data engineering concepts using Rust
+theme: jekyll-theme-minimal
+github:
+  is_project_page: true
+  repository_url: https://github.com/username/rust-data-course
